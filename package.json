@@ -1,5 +1,5 @@
 {
-  "name": "@shopbase/tourguide",
+  "name": "@vylq/tourguide",
   "version": "1.0.0",
   "description": "",
   "main": "dist/tour.js",
